@@ -26,3 +26,14 @@ print(number_1 <= number_2)
 print(number_1 >= number_2)  
 print(number_1 == number_2)
 print(number_1 != number_2) #true or false
+
+
+
+# BOSS HOMEWORK EVEN OR ODD
+
+
+nashti = 20 & 3
+print(nashti)
+
+unashto = 20 & 2
+print(unashto)
